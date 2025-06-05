@@ -53,3 +53,12 @@ Language
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+🚀 Featured Projects
+
+🧠 smart-helper – Automates daily tasks with Python.
+
+🌐 portfolio-site – A responsive web portfolio using HTML, CSS & JS.
+
+🎮 cpp-game-engine – Lightweight engine for 2D games in js css html
+
