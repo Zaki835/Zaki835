@@ -1,0 +1,36 @@
+# 👋 Welcome to My GitHub Profile!
+
+Hi there! I'm a passionate developer who loves to explore code, build creative solutions, and continuously learn new technologies.
+
+## 🧑‍💻 About Me
+- 🔭 Currently working on improving my full-stack development skills.
+- 🌱 Learning something new every day.
+- 💬 Ask me about anything related to programming, open-source, or building projects from scratch.
+- ⚡ Fun fact: I enjoy writing clean and readable code more than anything else.
+
+## 💻 Tech Stack
+Here are some tools and languages I enjoy working with:
+
+```py
+# Python
+def say_hello():
+    print("Hello, World!")
+
+// JavaScript
+const greet = () => console.log("Hello from JavaScript!");
+
+<!-- HTML -->
+<h1>Welcome to My Portfolio</h1>
+
+/* CSS */
+body {
+    background-color: #f0f0f0;
+    font-family: sans-serif;
+}
+
+// C++
+#include <iostream>
+int main() {
+    std::cout << "Hello from C++!" << std::endl;
+    return 0;
+}
