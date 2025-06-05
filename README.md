@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**Zaki835/Zaki835** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm a passionate developer who loves to explore code, build creative solutions, and continuously learn new technologies.
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
+- 🔭 Currently working on improving my full-stack development skills.
+- 🌱 Learning something new every day.
+- 💬 Ask me about anything related to programming, open-source, or building projects from scratch.
+- ⚡ Fun fact: I enjoy writing clean and readable code more than anything else.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+Here are some tools and languages I enjoy working with:
+
+```py
+# Python
+def say_hello():
+    print("Hello, World!")
+
+/* CSS */
+body {
+    background-color: #f0f0f0;
+    font-family: sans-serif;
+}
+// C++
+#include <iostream>
+int main() {
+    std::cout << "Hello from C++!" << std::endl;
+    return 0;
+}
+<!-- HTML -->
+<h1>Welcome to My Portfolio</h1>
+// JavaScript
+const greet = () => console.log("Hello from JavaScript!");
